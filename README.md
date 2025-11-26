@@ -6,24 +6,6 @@ Academic website for the Izzi Group on Bioinformatics and Data Analysis at the U
 
 The Izzi Lab, led by Associate Professor Valerio Izzi, focuses on developing computational methods to understand cancer biology through the lens of systems biology, with particular emphasis on the extracellular matrix and tumor microenvironment.
 
-## Building the Website
-
-This website is built using [Quarto](https://quarto.org/). To build locally:
-
-```bash
-# Install Quarto from https://quarto.org/docs/get-started/
-
-# Clone the repository
-git clone https://github.com/izzilab/izzilab.git
-cd izzilab
-
-# Build the website
-quarto render
-
-# Preview locally
-quarto preview
-```
-
 ## Structure
 
 - `index.qmd` - Homepage
