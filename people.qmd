@@ -66,6 +66,8 @@ listing:
 </nav>
 ```
 
+# ![](img/people.svg){.section-icon} People
+
 ## Principal Investigator
 
 :::{#pi}

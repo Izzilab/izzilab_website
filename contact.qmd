@@ -13,6 +13,8 @@ email-obfuscation: javascript
 </nav>
 ```
 
+# ![](img/contact.svg){.section-icon} Contact
+
 ## Visit Us
 
 The Izzi Lab is located at the **University of Oulu, Faculty of Biochemistry and Molecular Medicine**.

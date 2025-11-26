@@ -1,0 +1,70 @@
+/*-- scss:defaults --*/
+
+// Izzi Lab Color Palette (from logo)
+$primary:       #3D5A73;  // Navy Blue - navbar, headings, primary buttons
+$secondary:     #6B8FAD;  // Steel Blue - links, secondary buttons
+$accent:        #8B5A6B;  // Burgundy Rose - hover states, CTAs
+
+// Text colors
+$body-color:    #2D4356;  // Dark Navy - body text
+$headings-color: #3D5A73; // Navy for headings
+
+// Link colors
+$link-color:    #3D5A73;
+$link-hover-color: #8B5A6B;
+
+// Background and borders
+$light:         #F5F7F9;  // Soft Gray - card backgrounds
+$border-color:  #C5D1DC;  // Light Steel - borders
+
+// Navbar
+$navbar-dark-color: rgba(255, 255, 255, 0.9);
+$navbar-dark-hover-color: #ffffff;
+$navbar-dark-active-color: #ffffff;
+
+/*-- scss:rules --*/
+
+// Accent color for hover states on primary buttons
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: $accent;
+  border-color: $accent;
+}
+
+// Secondary button styling
+.btn-secondary {
+  background-color: $secondary;
+  border-color: $secondary;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background-color: darken($secondary, 10%);
+  border-color: darken($secondary, 10%);
+}
+
+// Link hover with accent color
+a:hover {
+  color: $accent;
+}
+
+// Card styling
+.card {
+  border-color: $border-color;
+}
+
+.card:hover {
+  border-color: $secondary;
+  box-shadow: 0 2px 8px rgba(61, 90, 115, 0.1);
+}
+
+// Quarto grid items (people cards, etc.)
+.quarto-grid-item {
+  border-color: $border-color;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.quarto-grid-item:hover {
+  border-color: $secondary;
+  box-shadow: 0 2px 8px rgba(61, 90, 115, 0.15);
+}

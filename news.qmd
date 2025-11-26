@@ -18,3 +18,5 @@ listing:
   </ol>
 </nav>
 ```
+
+# ![](img/news.svg){.section-icon} News

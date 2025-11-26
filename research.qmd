@@ -12,6 +12,8 @@ toc: false
 </nav>
 ```
 
+# ![](img/projects.svg){.section-icon} Research
+
 ## Decoding the Tumor-ECM Dialogue
 
 At the Izzi Lab, our central mission is to understand how tumors communicate with their surrounding environment, the extracellular matrix (ECM). This dynamic dialogue is critical for cancer growth, metastasis, and treatment resistance. We build and apply cutting-edge computational models to listen in on this conversation, aiming to identify novel therapeutic strategies that can disrupt it.

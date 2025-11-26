@@ -26,5 +26,7 @@ listing:
 </nav>
 ```
 
+# ![](img/publications.svg){.section-icon} Publications
+
 :::{#articles}
 :::

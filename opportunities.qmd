@@ -12,6 +12,8 @@ toc: false
 </nav>
 ```
 
+# ![](img/opportunities.svg){.section-icon} Opportunities
+
 ## Join Our Team
 
 The Izzi Lab is always looking for talented and motivated individuals to join our interdisciplinary research group. We welcome applications from candidates with backgrounds in bioinformatics, computational biology, biochemistry, molecular medicine, mathematics, computer science, and related fields.
