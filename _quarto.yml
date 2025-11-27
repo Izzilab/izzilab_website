@@ -5,6 +5,9 @@ project:
 execute:
     freeze: auto
 
+publish:
+  gh-pages: true
+
 website:
   favicon: img/izzilab_logo.png
   title: "Izzi Lab"
